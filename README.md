@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I have made a homepage linking 3 other HTML pages containing my favorite foods, their ingredients, and the recipe. This is my first HTML project without any refrences, and I would like to think I did a good job. Of course it could've been better if I knew how to use CSS, divs, and things like that, but this is the beginning of my Full-Stack Web Dev journey.
